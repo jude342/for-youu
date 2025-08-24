@@ -1,6 +1,6 @@
 html {
     background-color: pink;
-    background-image: url("elsa.jpg");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqQAqsMEeFUUMP778TUVXV_6ck66wRGJfujdkCJbNyRsemR43KORa_CLPDp84jP0B7soy483wH-bCA9oKpTVR2Rw");
     background-size: cover;
 }
 html::before{
@@ -56,4 +56,5 @@ body {
     background-color: pink;
     color: rgb(0, 0, 0);
     cursor: pointer;
+
 }
